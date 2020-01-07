@@ -1,11 +1,4 @@
-![CircleCI](https://img.shields.io/circleci/build/github/iykekings/las-js/master?label=build&style=flat-square&token=e591670f8adb6a712c9a24ac26255362b8eea406)
-![CircleCI](https://img.shields.io/circleci/build/github/iykekings/las-js/test?label=test&style=flat-square&token=e591670f8adb6a712c9a24ac26255362b8eea406)
-![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/las-js?style=flat-square)
-![npm type definitions](https://img.shields.io/npm/types/las-js?style=flat-square)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/las-js?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/iykekings/las-js?style=flat-square)
-![NPM](https://img.shields.io/npm/l/las-js?style=flat-square)
-![npm](https://img.shields.io/npm/v/las-js?style=flat-square)
+⚠️⚠️ This repo is no longer maintained and has been moved to [Las Libraries](https://github.com/laslibs/las-js) ⚠️⚠️
 
 # las-js is a zero-dependency JavaScript library for parsing .Las file (Geophysical well log files).
 
